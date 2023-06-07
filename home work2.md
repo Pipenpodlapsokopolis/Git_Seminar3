@@ -36,3 +36,5 @@
 Для **удаления ветки** ввести команду "git branch -d 'name branch'"
 ## Pабота с изображениями
 ![xexexexe)](https://avatars.dzeninfra.ru/get-zen_doc/1907878/pub_635d0391088a2c0d4d1cd833_635d039363d4707849faa167/scale_1200)
+
+![kapodaster](https://cdn.iportal.ru/news/2015/99/preview/373040953a4a814a9f983988a24f4a2b06e70980_1280_853_c.jpg)
